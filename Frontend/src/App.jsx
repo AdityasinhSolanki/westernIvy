@@ -49,7 +49,7 @@ import "./App.css";
 /* TOAST */
 
 import { ToastContainer } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
+import 'react-toastify/dist/ReactToastify.css';
 
 
 function AppContent({ selectedCategory, setSelectedCategory }) {
